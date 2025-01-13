@@ -85,7 +85,7 @@ First Aid Advisor Chatbot is a web-based chatbot that provides quick and easy fi
 ## Contact
 <p>For questions, suggestions, or contributions, please contact:</p>
 <ul>
-    <li><strong>Name:</strong> Eshita Badhe</li>
-    <li><strong>Email:</strong>  sge.eshita31gn@gmail.com </li>
-    <li><strong>GitHub:</strong> <a href="https://github.com/Eshita-Badhe">GitHub Profile</a></li>
+    <li><strong>Name:</strong> Aarya Chaudhari</li>
+    <li><strong>Email:</strong> aaryachaudhari0508@gmail.com </li>
+    <li><strong>GitHub:</strong> <a href="https://github.com/Aarya-Chaudhari">GitHub Profile</a></li>
 </ul>
